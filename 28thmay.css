@@ -1,0 +1,29 @@
+.name{
+    margin-right: 400px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.img{
+    margin-top: 50px;
+    border-radius:10px ;
+}
+
+.gold{
+    color: goldenrod;
+}
+
+.content{
+    justify-content: center ;
+}
+
+.year{ 
+    font-weight: bolder;
+
+}
+
+.exp{
+    padding-left: 300px;
+    color: goldenrod;
+    justify-content: flex-end;
+}
